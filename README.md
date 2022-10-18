@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Currently learning - Data science
+- 🌱 Currently learning - Backend/Fullstack web app development
 - 💬 Ambivert
 - 📫 Twitter Handle : @MonishSoni95
 - 😄 Pronouns: He/Him
