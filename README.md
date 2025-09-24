@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 🙂<br><br>🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning web app development (FSD)<br>💬  Ask me about anything related to JS & Python<br>👨‍💻  Read more about my projects at sonimonish00.github.io<br>⚡  Fun fact: I ❤️♟️<br>
+Hi there 🙂<br><br>🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Data Analysis<br>💬  Ask me about anything related to Data<br>👨‍💻  Read more about my projects at sonimonish00.github.io<br>⚡  Fun fact: I ❤️♟️<br>
 
 
 ## 🌐 Socials:
